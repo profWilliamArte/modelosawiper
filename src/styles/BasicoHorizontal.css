@@ -1,0 +1,12 @@
+/* Estilos para asegurar el funcionamiento de h-100 */
+.swiper-container .mySwiper {
+    height: 100% !important;
+}
+
+.swiper-container .swiper-slide {
+    height: auto;
+}
+
+.swiper-container .card {
+    height: 100%;
+}
